@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-
-	<body>
-		<h1>testing page 1</h1>
-		<p>just doing a test</p>
-	</body>
-</html>
