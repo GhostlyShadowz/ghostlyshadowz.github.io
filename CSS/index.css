@@ -1,43 +1,14 @@
 h1 {
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 24px;
   color: black;
   margin-top: 30px;
-  align-content: center;
 }
 
-button1 {
-  background-color: red;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+h2 {
   font-family: 'Raleway', sans-serif;
-}
-
-button2 {
-  background-color: purple;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
-}
-
-button3 {
-  background-color: blue;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: black;
+  margin-top: 30px;
+  margin-left: 30px;
 }
