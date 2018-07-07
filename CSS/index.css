@@ -1,17 +1,5 @@
-* h1 {
-    font-family: 'Markazi Text', serif;
-    font-size: 50px;
-    color: orange;
-}
+*
 
-* p {
-  font-family: 'Markazi Text', serif;
-  font-size: 24px;
-  color: blue;
-}
-
-* a {
-  font-family: 'Markazi Text', serif;
-  font-size: 14px;
-  colour
+body {
+  background-color: black;
 }
