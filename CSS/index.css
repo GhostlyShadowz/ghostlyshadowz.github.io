@@ -1,6 +1,7 @@
 *
 
-img {
-    width: 260px;
-    height: 260px;
+h1 {
+    font-family: 'Markazi Text', serif;
+    font-size: 50px;
+    color: orange;
 }
