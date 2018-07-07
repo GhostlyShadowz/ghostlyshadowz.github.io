@@ -3,3 +3,9 @@
     font-size: 50px;
     color: orange;
 }
+
+* p {
+  font-family: 'Markazi Text', serif;
+  font-size: 24px;
+  color: blue;
+}
